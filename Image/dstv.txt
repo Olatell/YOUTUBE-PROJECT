@@ -1,0 +1,31 @@
+<body>
+  <section>
+    <div class="body">
+        <img src="image/icon-logo-mydstv.svg" alt="">
+    <p> Sign Into My Account</p>
+
+    </div sub section1>
+    <div class="fa-regular fa-location"><i></i>
+    <input type placeholder="Country"> <br>
+        <input type placeholder="Surname or number"> <br>
+        <input type placeholder="IUC/Smartcard number"> <br>
+        <input type="checkbox"><label> Remember me
+        </label> <br>
+    </div>
+    <div class="Sub form">
+    <button>
+        SIGN IN
+    </button>  <br>
+</div>
+    <button>
+        OR
+    </button>
+    <P>Use Your MultiChoice ID</P>
+    <button>SIGN IN / SIGN UP</button>
+    <P>Should you pay subscription and continue using our <br>
+         products, you are demedas having agreed to the <br>
+         MultiChoice Subscription.</P>
+
+    <p>Terms and Conditions</p>
+</div>
+  </section>
